@@ -23,8 +23,8 @@ public class MsmServiceImpl implements MsmService {
     static final String domain = "dysmsapi.aliyuncs.com";
 
     // TODO 此处需要替换成开发者自己的AK(在阿里云访问控制台寻找)
-    static final String accessKeyId = "LTAI4G5WRiCNuGsHoDP4D6UC";
-    static final String accessKeySecret = "XvslqaKQVT0TdOgL3dMvI5chkX4lPR";
+    static final String accessKeyId = "";
+    static final String accessKeySecret = "";
 
     /**
      * 短信发送
